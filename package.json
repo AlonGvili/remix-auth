@@ -42,9 +42,9 @@
     "README.md"
   ],
   "peerDependencies": {
-    "@remix-run/node": "^0.20.1",
-    "@remix-run/react": "^0.20.1",
-    "remix": "^0.20.1"
+    "@remix-run/node": "^0.21.0",
+    "@remix-run/react": "^0.21.0",
+    "remix": "^0.21.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.2",
